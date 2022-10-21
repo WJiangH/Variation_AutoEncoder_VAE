@@ -13,5 +13,5 @@ When we set the **latent dimension** as `2`, the latent pattern of image categor
 
 **`VAE_Anime.ipynb`** is similar as above but trained on dataset of [anime faces dataset by MckInsey666](https://github.com/bchao1/Anime-Face-Dataset). The VAE model will be a little bit of complex than the former (e.g., three conv2d block in encoder). The latent dimension is set as `512`. The reconstructured image is,
 
-<img src='imgs/anime_reconstructed.jpg' width="800" height="400">
+<img src='imgs/anime_reconstructed.jpg' width="1000" height="400">
 
