@@ -15,4 +15,4 @@ When we set the **latent dimension** as `2`, the latent pattern of image categor
 
 <img src='imgs/anime_reconstructed.jpg' width="1000" height="400">
 
-**note** if the model is trained longer, the `decoder` should be able to generate new_image for random input.
+**note:** if the model could be trained longer, the `decoder` should be able to generate new_image for random input.
