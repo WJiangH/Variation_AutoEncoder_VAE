@@ -2,4 +2,4 @@
 
 VAE model architecture:
 
-<img src='imgs/vae_overview.png' width="900" height="600" >
+<img src='imgs/vae_overview.png' width="600" height="400" >
